@@ -11,22 +11,35 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Ph.D in Physics, University of Michigan, 2018
+* M.S. in Physics, University of Michigan, 2018
+* B.S. in Mathematics, University of Kentucky, 2013
+* B.S. in Physics, University of Kentucky, 2013
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Postdoctoral Research Associate
+  * Oak Ridge National Laboratory
+  * Research Software Engineering
+  * 2019-present
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
+* Postdoctoral Research Fellow
+  * University of Michigan
+  * LHCb, PHENIX, and sPHENIX collaborations
+  * 06/2018-06/2019
+
+* Graduate Research Assistant
+  * University of Michigan
+  * PHENIX and sPHENIX collaborations
+  * 06/2013-06/2018
+  * Thesis advisor: Christine A. Aidala
+
+* Undergraduate Research Assistant
+  * University of Kentucky
+  * STAR collaboration
+  * 05/2012-05/2013
+  * Thesis advisor: Renee Fatemi
+
 Skills
 ======
 * Skill 1
