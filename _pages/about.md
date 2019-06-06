@@ -8,5 +8,6 @@ redirect_from:
   - /about.html
 ---
 
+Welcome to my personal webpage!
 
-This is a personal website for Joseph (Joe) Osborn.
+I am currently a postdoctoral research associate at Oak Ridge National Laboratory who works in research software engineering. I have formerly worked as a high-energy particle physicist as a postdoc and a graduate student. I enjoy all things combining software and science!
