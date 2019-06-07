@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Joseph D. Osborn"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "Joseph Osborn"
 description              : &description "Research Software Physicist"
