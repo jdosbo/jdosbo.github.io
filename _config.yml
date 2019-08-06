@@ -84,9 +84,9 @@ author:
   avatar           : "profile.png"
   bio              : "Research Software Physicist in particle physics and large scale data analysis software"
   location         : "Knoxville, TN"
-  employer         :
+  employer         : "Oak Ridge National Laboratory"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : #"http://yourfullgooglescholarurl.com"
+  googlescholar    : "http://inspirehep.net/search?ln=en&p=find+a+J.+D.+Osborn&of=hb&action_search=Search&sf=earliestdate&so=d"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -95,10 +95,8 @@ author:
   dribbble         :
   flickr           :
   facebook         :
-  foursquare       :
-  inspirehep       : "http://inspirehep.net/search?ln=en&p=find+a+J.+D.+Osborn&of=hb&action_search=Search&sf=earliestdate&so=d"
+  foursquare       : 
   github           : "jdosbo"
-  ornlgithub       : "osbornjd"
   google_plus      :
   keybase          :
   instagram        :
