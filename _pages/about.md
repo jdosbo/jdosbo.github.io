@@ -10,4 +10,4 @@ redirect_from:
 
 Welcome to my personal webpage!
 
-I am currently a postdoctoral research associate at Oak Ridge National Laboratory who works in research software engineering. I have formerly worked as a high-energy particle physicist as a postdoc and a graduate student. I enjoy all things combining software and science!
+I am currently a postdoctoral research associate at Oak Ridge National Laboratory who works in research software engineering. I have worked as a high-energy particle physicist as a postdoc and a graduate student, largely developing software for the experiments to do data analysis. I enjoy all things combining software and science!
