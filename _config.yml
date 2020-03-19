@@ -9,8 +9,8 @@
 locale                   : "en-US"
 title                    : "Home"
 title_separator          : "-"
-name                     : &name "Joseph Osborn"
-description              : &description "Research Software Physicist"
+name                     : &name "Joseph (Joe) Osborn"
+description              : &description "Computational Physicist"
 url                      : https://jdosbo.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "jdosbo/jdosbo.github.io"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Joseph Osborn"
+  name             : "Joseph (Joe) Osborn"
   avatar           : "profile.png"
   bio              : "Research Software Physicist in particle physics and large scale data analysis software"
   location         : "Knoxville, TN"
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       : 
-  github           : "jdosbo"
+  github           : "osbornjd"
   google_plus      :
   keybase          :
   instagram        :
