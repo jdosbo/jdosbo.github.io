@@ -82,11 +82,11 @@ analytics:
 author:
   name             : "Joseph (Joe) Osborn"
   avatar           : "profile.png"
-  bio              : "Research Software Physicist in particle physics and large scale data analysis software"
+  bio              : "Computational Physicist in particle physics and large scale data analysis software"
   location         : "Knoxville, TN"
   employer         : "Oak Ridge National Laboratory"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://inspirehep.net/search?ln=en&p=find+a+J.+D.+Osborn&of=hb&action_search=Search&sf=earliestdate&so=d"
+  googlescholar    : "https://scholar.google.com/citations?user=HYpzMW0AAAAJ&hl=en&oi=ao"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
