@@ -11,5 +11,4 @@ redirect_from:
 
 Click [here](https://jdosbo.github.io/files/CV.pdf) to access a PDF of my CV.
 
-Click [here](https://jdosbo.github.io/files/resume.pdf) to see an example resume with more concise details of my CV.
 
